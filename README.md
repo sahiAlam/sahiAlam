@@ -1,6 +1,6 @@
 # Hi there 👋, i'm Md Sahi Alam Khan
 #### Web Developer
-![Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQG1K--YWhLwTw/profile-displaybackgroundimage-shrink_350_1400/0/1663438681282?e=1668643200&v=beta&t=OyrqXU0-g9_h8X_hXvjF1v9_bYcWAR0fiK_oM0absIk)
+![Web Developer](https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2022/06/Computer_programmer.jpeg.jpg)
 
 B-tech Undergraduate UI Developer, a student of Government College of Engineering and Ceramic Technology || Front-End Web Developer . I love to play with technology ❤️
 
